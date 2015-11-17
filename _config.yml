@@ -5,21 +5,18 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Tirana Code'
+description: "Blog."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Aldo'
 # edit 'categories' in the front matter of every post to match this username
-username: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+username: aldo
+bio: 'Thelle thelle, njeri i mire...'
+location: 'Edinburg, Skoci'
+url: 'tiranacode.github.io'
+image: 'assets/images/aldo.jpg'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /blog/
 
