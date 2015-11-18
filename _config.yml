@@ -5,20 +5,23 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Tirana Code'
+name: 'Tirana Code_'
 description: "Blog."
 
 # Author's info
 author: 'Aldo'
 # edit 'categories' in the front matter of every post to match this username
-username: 'aldo'
-bio: 'Thelle thelle, njeri i mire...'
+username: aldo
+bio: 'Thelle, thelle, njeri i mire...'
 location: 'Edinburg, Skoci'
-url: 'http://tiranacode.github.io/'
+url: 'https://www.linkedin.com/in/arjaldokaraj'
 image: 'assets/images/aldo.jpg'
 
+short_url: 'linkedin.com/in/arjaldokaraj'
+google_analytics: UA-69281367-1
+disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /blog/
 
 # Permalinks
 permalink: /:title
