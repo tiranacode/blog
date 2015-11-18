@@ -14,10 +14,10 @@ author: 'Aldo'
 username: aldo
 bio: 'Thelle, thelle, njeri i mire...'
 location: 'Edinburg, Skoci'
-url: 'https://www.linkedin.com/in/arjaldokaraj'
+url: 'https://tiranacode.github.io/blog/'
 image: 'assets/images/aldo.jpg'
 
-short_url: 'linkedin.com/in/arjaldokaraj'
+short_url: 'tiranacode.github.io/blog/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
