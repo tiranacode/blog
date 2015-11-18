@@ -11,7 +11,7 @@ description: "Blog."
 # Author's info
 author: 'Aldo'
 # edit 'categories' in the front matter of every post to match this username
-username: aldo
+username: 'aldo'
 bio: 'Thelle thelle, njeri i mire...'
 location: 'Edinburg, Skoci'
 url: 'http://tiranacode.github.io/'
